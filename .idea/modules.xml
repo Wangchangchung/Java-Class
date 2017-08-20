@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HeadFirstPatten/HeadFirstPatten.iml" filepath="$PROJECT_DIR$/HeadFirstPatten/HeadFirstPatten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaExces/JavaExces.iml" filepath="$PROJECT_DIR$/JavaExces/JavaExces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/SourceCode.iml" filepath="$PROJECT_DIR$/SourceCode/SourceCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrittenExamination/WrittenExamination.iml" filepath="$PROJECT_DIR$/WrittenExamination/WrittenExamination.iml" />
+    </modules>
+  </component>
+</project>
