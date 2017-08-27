@@ -9,14 +9,9 @@ import java.util.concurrent.ThreadPoolExecutor;
  */
 public class TheadPoolDemo {
 
-
     public static  void  main(String[] args){
 
-        ThreadPoolExecutor  executor =  null;
-        ForkJoinPool  joinPool = null;
-
-        Integer  integer;
-
     }
+
 
 }
